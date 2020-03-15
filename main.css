@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'raphaelregular';
+    src: url('raphael-regular-2-webfont.woff2') format('woff2'),
+         url('raphael-regular-2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1 {
+  font-family: 'raphael', Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 4.5rem;
+  letter-spacing: 8px;
+  margin: 0;
+}
+
+p {
+  font-family: 'raphael', Arial, sans-serif;
+}
+
+
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+  text-align: center;
+}
